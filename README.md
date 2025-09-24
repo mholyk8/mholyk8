@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Matt, and I am a recent graduate of the Computer Engineering program at the Northern Alberta Institute of Technology. I thoroughly enjoyed everything the program had to offer and am excited to take the first step in my new career.
+My name is Matt, and I am a recent graduate of the Computer Engineering Technology program at the Northern Alberta Institute of Technology. I thoroughly enjoyed everything the program had to offer and am excited to take the first step in my new career.
 
     🔭 I am currently seeking job opportunities in software development.
 
