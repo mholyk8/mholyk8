@@ -1,7 +1,13 @@
 ## Hi there 👋
-- 🔭 I’m currently job hunting in the software development field.
-- 🌱 I’m currently learning the React Library for Javascript.
-- 👯 I’m looking to network with other coders 🙂
+
+My name is Matt, and I am a recent graduate of the Computer Engineering program at the Northern Alberta Institute of Technology. I thoroughly enjoyed everything the program had to offer and am excited to take the first step in my new career.
+
+    🔭 I am currently seeking job opportunities in software development.
+
+    🌱 I am learning the React library for JavaScript.
+
+    👯 I am looking to network with other coders 🙂
+
 <!--
 **mholyk8/mholyk8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
