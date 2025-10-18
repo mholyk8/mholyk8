@@ -6,7 +6,7 @@ My name is Matt, and I am a recent graduate of the Computer Engineering Technolo
 
     🌱 I am learning the React library for JavaScript.
 
-    👯 I am looking to network with other coders 🙂
+    👯 I am looking to network with other coders. 🙂
 
 <!--
 **mholyk8/mholyk8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
